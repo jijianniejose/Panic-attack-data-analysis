@@ -49,6 +49,8 @@ Age Group Column: Categorized patients into Adolescent, Adult, and Senior groups
 
 Symptom Analysis
 
+![My Project Screenshot](https://i.postimg.cc/XN3NWMDL/Panic-Attack-Data-Analysis-page-0002.jpg).
+
 Visual breakdown of patients experiencing Dizziness, Trembling, Sweating, Shortness of Breath, and Chest Pain.
 
 Over half of patients reported multiple symptoms together, indicating cross-symptom patterns.
@@ -56,12 +58,14 @@ Over half of patients reported multiple symptoms together, indicating cross-symp
 
 Lifestyle Analysis
 
+![My Project Screenshot](https://i.postimg.cc/8P6Zm3TG/Panic-Attack-Data-Analysis-page-0003.jpg).
+
 Visuals showing how Sleep Hours and Drinks per Week correlate with Panic Attack Frequency.
 
 Lower sleep duration generally corresponded with higher panic scores.
 
 Trigger and Medical History
-
+![my Project Screenshot](https://i.postimg.cc/MK2FNxPj/Panic-Attack-Data-Analysis-page-0004.jpg)
 Compared triggers such as Caffeine, Phobia, and PTSD across gender and age.
 
 Displayed impact of prior Anxiety and Depression conditions on panic attack severity.
